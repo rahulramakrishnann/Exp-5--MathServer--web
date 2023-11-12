@@ -163,7 +163,7 @@ urlpatterns = [
 
 ```
 ## OUTPUT :
-
-
+![Alt text](<web ex 5 1.png>)
+![Alt text](<web ex 5.png>)
 ## RESULT:
 The program for performing server side processing is completed successfully.
