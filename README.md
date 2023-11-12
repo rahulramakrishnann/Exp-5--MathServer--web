@@ -163,7 +163,9 @@ urlpatterns = [
 
 ```
 ## OUTPUT :
-![Alt text](<web ex 5 1.png>)
-![Alt text](<web ex 5.png>)
+![web ex 5 1](https://github.com/Mugilan212/MathServer/assets/144508901/38a489b7-9139-4848-8d6d-7c8cccfd91d6)
+
+![web ex 5](https://github.com/Mugilan212/MathServer/assets/144508901/e5b30ca7-cb60-4212-85ec-6e81aaa35fdb)
+
 ## RESULT:
 The program for performing server side processing is completed successfully.
