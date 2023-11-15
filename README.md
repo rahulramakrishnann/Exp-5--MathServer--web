@@ -1,5 +1,5 @@
 # Ex.05 Design a Website for Server Side Processing
-## Date: 11/11/2023
+## Date: 07/11/2023
 
 ## AIM:
 To design a website to find total surface area of a square prism in server side.
@@ -32,17 +32,16 @@ Publish the website in the given URL.
 ## PROGRAM :
 ## math.html
 ```html
-
 <html>
 
 <head>
     <meta charset='utf-8'>
     <meta http-equiv='X-UA-Compatible' content='IE=edge'>
-    <title>Area of Square Prism</title>
+    <title>AREA OF SQUARE PRISM</title>
     <meta name='viewport' content='width=device-width, initial-scale=1'>
     <style type="text/css">
         body {
-            background-color:rgb(167, 30, 30)
+            background-color:rgb(87, 86, 34)
         }
 
         .edge {
@@ -58,21 +57,21 @@ Publish the website in the given URL.
             width: 500px;
             min-height: 300px;
             font-size: 20px;
-            background: rgb(146, 143, 122);
-            background: linear-gradient(90deg, rgb(146, 143, 122) 9%, rgb(146, 143, 122) 56%);
+            background: rgb(185, 167, 29);
+            background: linear-gradient(90deg, rgb(167, 156, 76) 9%, rgb(133, 119, 19) 56%);
             border-radius: 10px;
-            box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+            box-shadow: rgba(151, 224, 4, 0.35) 0px 5px 15px;
         }
 
         .formelt {
-            color: rgb(15, 14, 14);
+            color: rgb(224, 240, 8);
             text-align: center;
             margin-top: 7px;
             margin-bottom: 6px;
         }
 
         h1 {
-            color: rgb(15, 14, 14);
+            color: rgb(29, 6, 6);
             text-align: center;
             padding-top: 20px;
         }
@@ -89,7 +88,7 @@ Publish the website in the given URL.
 <body>
     <div class="edge">
         <div class="box">
-            <h1>Area of a Square Prism</h1>
+            <h1>AREA OF SQUARE PRISM</h1>
             <form method="POST">
                 {% csrf_token %}
                 <div class="formelt">
@@ -163,9 +162,10 @@ urlpatterns = [
 
 ```
 ## OUTPUT :
-![web ex 5 1](https://github.com/Mugilan212/MathServer/assets/144508901/38a489b7-9139-4848-8d6d-7c8cccfd91d6)
 
-![web ex 5](https://github.com/Mugilan212/MathServer/assets/144508901/e5b30ca7-cb60-4212-85ec-6e81aaa35fdb)
+![image](https://github.com/rahulramakrishnann/Exp-5--MathServer--web/assets/143045415/6d312452-c210-4fb9-b6d9-2405f315f654)
+
+![image](https://github.com/rahulramakrishnann/Exp-5--MathServer--web/assets/143045415/0f137f76-113b-4632-87f4-af58c427c97f)
 
 ## RESULT:
 The program for performing server side processing is completed successfully.
